@@ -14,5 +14,6 @@ h2 {
 }
 
 svg {
+    display: block;
     margin: auto; /* horizontally centre */
 }
