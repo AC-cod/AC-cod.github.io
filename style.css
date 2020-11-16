@@ -11,6 +11,8 @@ h2 {
 #desc {
     text-align: center;
     font-size: 3vw;
+    width: 33%;
+    margin: auto;
 }
 
 svg {
