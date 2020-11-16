@@ -4,6 +4,7 @@ h1 {
     background: -webkit-linear-gradient(#fff, #000);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
+    margin: 0 auto;
 }
 
 h2 {
