@@ -1,11 +1,15 @@
 h1 {
     text-align: center;
     font-size: 10vw;
+    background: -webkit-linear-gradient(#fff, #000);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
 }
 
 h2 {
     text-align: center;
     font-size: 7vw;
+    color: #bb0;
 }
 
 #desc {
